@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "tecace-348404",
+  "private_key_id": "729b5647c63d962cccae3a5a759f2ddbdffc54f4",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC2xkX1NX5OVG+n\nwswPa5EozOLuktfYVrhFDAlTUsNSh/OWKjEY3xdjGfURuw9pnwTSZXS+VQKO8kYB\nQqEg4aQFTJLTtEaCmmbuFfYCNnflcZqdTSNpn4R23O0VPs3zdLNQDiEgy2H1DInZ\nF+z04es5ulrnh4BHwpV2GBoS8ftcjd1Y6TZrytvzX5qjEo2GH9q6NYdygYOftJEb\nkHUw2hAgEVd2rJdmouw0OMxLsUuhEDm9kT90Wk7O72bHOJwYQ4DEQAuo8OaORnbc\nsBbvtQWrK7aNrGrpTKktdts20C+gHNjUEdeXjpXBjGYIdTAn9yCPxllF8O3l4Hbr\nErpineu5AgMBAAECggEAAiMQ09RfiO5rTMiWBrMhBBtbJuNwIx8mceY5YLBFyNv+\nkNmm783B8f5uc1nezQMXNReLFSOcz0uNXnvnMuF4f7hcuh1wOpwwCmYW1YFKBxR8\nNI0flh9Plu0v13D/yvIpG41CvWWrXEhcfz2Mn3NZwvfHEtBug0hG45XWDjUmlXct\nGZ9IN1ItYWla/ZRKTGoaDRoUOdQg9LhSjHlf2PYrTG4iUqq3+BPdt3sAo0NQ84Wf\nCRxvFx6TjB+f1eOLYKRfvRIM1IBj7o3pZMDENVnnn3PvoPg9+z/sf2k8OKkD25ro\nstxUwIfpmEnjNmJqAPVsaVSSCUCDKLJGL47+5CE+IQKBgQDao7CRhhky9kbFTEMf\nnEeMnjV1A1VLEREBzotXTnzSPDMSePbFGL+GJrGK80Mz7c+8wuzpM0PhMXsVEAgI\nzBNWhS5Eh3dhzkBnLw7e1vEy4nYOdPHlDmcCXwS0i8K8KEaPJR+fvu+xwiMqS1ji\n5Y0gG1VKzYAmn1G+VMR2sbkHaQKBgQDWAa9NPxmUaYPxgiYVj4FzteQQy25xkiMt\neqZLIBUoTs0QBSFFYmgaWSCmEd4xesQEy2Cy8ppsYQJoGHOOTrF/4GyZ7V2k13Zq\n/4NUn14ERw+q98enBEXfKBKORb4uWpkhax1yG7f9PPlPsYrB5qVY0lQI7wcmlwNc\nA+lieCMH0QKBgQCZCbTA191xl4MH/Q6K5MgMPH1sj023gpWl7x4HmY+zVKHnDzaj\n1WPSEel6OjZS9eXP2Z0cyl58FTdzEcqd5cKvb/9nxm6gzk60KvM8tbUVCgDas67R\nxxgBR+MyQRWowIRLFBAjr/F1Ok+E/kKUZ1s2GwvDlT5bSm9cS1dNQa8i6QKBgQCf\nhdn6ptKWgqDL4cwpvjMs4aUDr+C/38NBH2/eCCg9R6AsFObcJaKcIVvo7uDF2VFM\nkZ2fRqA9sYJtvexFY/uD6vKJOxrWyZWH5Lcs2S7n2WCgfNricJj045YRX4OIYhhL\nhOEKMgdQSac99IYOS7NtJjtl/WdDKMZkTLYnpI3YQQKBgHRkx4Q+YlYlAAx4DhJz\nxIRj+zSAWW6MJaXStM1QCTvr7PUWIYWMOLfLJG0JO+4OHejFmmKpjwXkgY4czPuK\niSV7yYLAE8W09dm0lHgJcSwHz2Y8oWqbeUZAxJAU8/WAZQA+NEf7ksYshPXMUEiT\n9BoUBTamRCZQt4vDs38wnoqi\n-----END PRIVATE KEY-----\n",
+  "client_email": "tecace@tecace-348404.iam.gserviceaccount.com",
+  "client_id": "111863774517837022482",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/tecace%40tecace-348404.iam.gserviceaccount.com"
+}

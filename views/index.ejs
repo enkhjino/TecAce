@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title><%= title %></title>
+    <link rel='stylesheet' href='/stylesheets/style.css' />
+  </head>
+  <body>
+    <h2>Please enter your spreadsheet ID to view</h2>
+    <form action="/all" method ="GET">
+      <label>Spreadsheet ID:</label>
+      <input type="text" name="spreadsheetId" placeholder="id">
+      <label>Range</label>
+      <input type="text" name="range" placeholder="A1:B5">
+      <input type="submit" value="View">
+    </form>
+    
+    <h2>Please enter your spreadsheet ID to add</h2>
+    <form action="/data" method ="POST">
+      <label>Spreadsheet ID:</label>
+      <input type="text" name="spreadsheetId" placeholder="id">
+      <label>Student Name</label>
+      <input type="text" name="studentName" placeholder="Angie">
+      <label>Gender</label>
+      <input type="text" name="gender" placeholder="Male/Female">
+      <input type="submit" value="Add">
+    </form>
+    <h2>Please enter your spreadsheet ID to delete</h2>
+    <form action="/data/:key?_method=DELETE" method ="POST">
+      <label>Spreadsheet ID:</label>
+      <input type="text" name="spreadsheetId" placeholder="id">
+      <label>Student Name</label>
+      <input type="text" name="studentName" placeholder="Angie">
+      <input type="submit" value="Delete">
+    </form>
+  </body>
+</html>
